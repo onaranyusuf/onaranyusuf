@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 get touch my accounts 
 
 [![LinkedIn Badge](https://img.shields.io/badge/Yusuf%20Onaran%20-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yusufonaran/)
+<br/>
+[![](https://img.shields.io/badge/VISIT%20MY%20WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yusufonaran.me/)
