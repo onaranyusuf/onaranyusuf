@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 I am **Yusuf Onaran** <br>
-I'm an Jr. Full Stack Developer 💻<br>
+I'm n Jr. Full Stack Developer 💻<br>
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Website Projects with Vue.js
 - 🌱 I’m currently learning Vue.js, Node.js, JS, TypeScript. 
 
-### 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
+### 📌 GitHub Stats 📈 & Top Languages 🌍
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=onaranyusuf&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=onaranyusuf&layout=compact&theme=dark" />
 </p>
 
-### 📫 How 👀 to reach me 💁🏻‍♂️
+### 📫 How to reach me 👀
 
 get touch my accounts 
 
