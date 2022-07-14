@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 I am **Yusuf Onaran** <br>
-I'm n Jr. Full Stack Developer 💻<br>
+I'm a Jr. Full Stack Developer 💻<br>
 
 Here are some ideas to get you started:
 
