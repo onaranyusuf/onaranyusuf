@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://raw.githubusercontent.com/onaranyusuf/onaranyusuf/main/hello.gif" align="center" style="width: 100%" />
-</div>
+</div> -->
 
 ## 
 I am **Yusuf Onaran** <br>
@@ -25,7 +25,7 @@ I'm a Jr. Full Stack Developer 💻<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Website Projects with Vue.js
-- 🌱 I’m currently learning Vue.js, Node.js, JS, TypeScript. 
+- 🌱 I’m currently learning React.js and JAVA. 
 
 ### 📌 GitHub Stats 📈 & Top Languages 🌍
 
@@ -41,7 +41,7 @@ get touch my accounts
 
 [![LinkedIn Badge](https://img.shields.io/badge/Yusuf%20Onaran%20-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yusufonaran/)
 <br/>
-[![](https://img.shields.io/badge/VISIT%20MY%20WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yusufonaran.me/)
+<!--[![](https://img.shields.io/badge/VISIT%20MY%20WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yusufonaran.me/)-->
 
 <div>
 <a href="https://www.youtube.com/c/YusufOnaran" target="_blank">
